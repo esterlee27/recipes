@@ -4,3 +4,5 @@
 - salt
 
 # Instructions
+- peel the avocados
+- mix it with lime juice
